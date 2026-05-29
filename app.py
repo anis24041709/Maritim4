@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_KEY = st.secrets["AISSTREAM_API_KEY"]
+API_KEY = "b1e78bf6f272a5720434ed734099a379958bc945"
 
 # Session State
 if "position" not in st.session_state:
